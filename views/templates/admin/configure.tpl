@@ -312,7 +312,7 @@ text-decoration:underline;
 		{else}
 		
 		<p class="top_subtitle" style = "margin-top:40px">Don't have a LiveEngage Account?</p>
-		 <a class="connect_btn full" target = "_blank" href="http://engage.liveperson.com/prestashop">Sign Up for Free</a>
+		 <a class="connect_btn full" target = "_blank" href="http://roia.biz/im/n/5aayvq1BAAGhLUMAABTTZjEAQgABrAk-A/">Sign Up for Free</a>
 		{/if}
 	</div>
 </div>
@@ -345,7 +345,7 @@ text-decoration:underline;
 
 {if ($lp_site_id <= "0")}
 <div class="bottom_section">
-	<a class="bottom_button" href="http://engage.liveperson.com/prestashop" target = "_blank">Sign Up For Free</a>
+	<a class="bottom_button" href="http://roia.biz/im/n/5aayvq1BAAGhLUMAABTTZjEAQgABrAk-A/" target = "_blank">Sign Up For Free</a>
 </div>
 {/if}
 
